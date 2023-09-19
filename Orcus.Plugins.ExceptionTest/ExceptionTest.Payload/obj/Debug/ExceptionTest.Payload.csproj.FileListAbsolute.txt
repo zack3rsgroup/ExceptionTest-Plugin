@@ -1,0 +1,10 @@
+C:\Users\zack3r\Desktop\Orcus.Plugins.ExceptionTest-master\ExceptionTest.Payload\obj\Debug\ExceptionTest.Payload.csprojResolveAssemblyReference.cache
+C:\Users\zack3r\Desktop\Orcus.Plugins.ExceptionTest-master\ExceptionTest.Payload\bin\Debug\ExceptionTest.Payload.dll
+C:\Users\zack3r\Desktop\Orcus.Plugins.ExceptionTest-master\ExceptionTest.Payload\bin\Debug\ExceptionTest.Payload.pdb
+C:\Users\zack3r\Desktop\Orcus.Plugins.ExceptionTest-master\ExceptionTest.Payload\bin\Debug\Orcus.Plugins.dll
+C:\Users\zack3r\Desktop\Orcus.Plugins.ExceptionTest-master\ExceptionTest.Payload\bin\Debug\Orcus.Shared.dll
+C:\Users\zack3r\Desktop\Orcus.Plugins.ExceptionTest-master\ExceptionTest.Payload\bin\Debug\Orcus.Plugins.pdb
+C:\Users\zack3r\Desktop\Orcus.Plugins.ExceptionTest-master\ExceptionTest.Payload\bin\Debug\Orcus.Shared.pdb
+C:\Users\zack3r\Desktop\Orcus.Plugins.ExceptionTest-master\ExceptionTest.Payload\bin\Debug\de\Orcus.Plugins.resources.dll
+C:\Users\zack3r\Desktop\Orcus.Plugins.ExceptionTest-master\ExceptionTest.Payload\obj\Debug\ExceptionTest.Payload.dll
+C:\Users\zack3r\Desktop\Orcus.Plugins.ExceptionTest-master\ExceptionTest.Payload\obj\Debug\ExceptionTest.Payload.pdb
